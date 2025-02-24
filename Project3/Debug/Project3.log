@@ -1,0 +1,7 @@
+﻿  MapHandler.cpp
+U:\Project3\MapHandler.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+U:\Project3\MapHandler.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+U:\Project3\MapHandler.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Project3.vcxproj -> U:\Project3\Debug\Project3.exe
